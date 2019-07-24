@@ -1,2 +1,5 @@
-# mcl
-Bleeding edge Minecraft server wrapper (for snapshots, prereleases, etc.) providing at ton of features, mostly controlled via chat.
+# MCL - Minecraft Listener
+
+### The repository is still located on my personal account [2called-chaos/mcl](https://github.com/2called-chaos/mcl)
+
+I might move the project here later.
